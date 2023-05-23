@@ -19,7 +19,7 @@ This repository contains the following files:
 - Problem2: that contains SSIS package for implementing SCD type 6 for a table.
 - Problem3: that contains SSIS package for loading data to a table using versioning.
 - assignment2.pdf: assignment description
-- images: for images provided
+- database.sql: sql file that contains instructions and test cases
 - README.md: This file.
 
 ## Usage
